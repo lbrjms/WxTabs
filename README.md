@@ -1,3 +1,6 @@
+# 无UI的js UI组件库
+打造一个与框架没关的通用的web前端组件库
+
 # wx_tabs
 
 ## Project setup
